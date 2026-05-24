@@ -1,15 +1,9 @@
-function showSection(id){
+function scrollToSection(id){
 
-    let sections =
-    document.querySelectorAll(
-    ".section");
+    document.getElementById(id).scrollIntoView({
 
-    sections.forEach(function(section){
-
-        section.style.display = "none";
+        behavior: "smooth"
 
     });
 
-    document.getElementById(id)
-    .style.display = "block";
 }

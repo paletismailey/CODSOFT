@@ -1,5 +1,3 @@
-
-
 function showSection(id){
 
     let sections =
