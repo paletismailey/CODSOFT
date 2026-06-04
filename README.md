@@ -81,7 +81,7 @@ A simple and functional calculator web application developed using HTML, CSS, an
 ###  Live Demo
 ## TASK 3 - Calculator
 
-🔗 Live Demo: [View Calculator](https://paletismailey.github.io/CODSOFT/TASK2/)
+🔗 Live Demo: [View Calculator](https://paletismailey.github.io/CODSOFT/TASK3/)
 
 ---
 
