@@ -57,7 +57,7 @@ A modern and responsive landing page designed with attractive UI and clean layou
 - CSS3
 
 ###  Live Demo
-🔗 Live Demo: [View Portfolio](https://paletismailey.github.io/CODSOFT/TASK2/)
+🔗 Live Demo: [View Landing Page](https://paletismailey.github.io/CODSOFT/TASK2/)
 
 
 ---
