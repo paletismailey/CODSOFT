@@ -32,7 +32,7 @@ A personal portfolio website created using HTML, CSS, and JavaScript to showcase
 - JavaScript
 
 ###  Live Demo
-Add your live link here
+https://paletismailey.github.io/CODSOFT/TASK1/
 
 Example:
 https://your-live-link.com
@@ -55,7 +55,7 @@ A modern and responsive landing page designed with attractive UI and clean layou
 - CSS3
 
 ###  Live Demo
-Add your live link here
+https://paletismailey.github.io/CODSOFT/TASK2/
 
 ---
 
@@ -76,7 +76,7 @@ A simple and functional calculator web application developed using HTML, CSS, an
 - JavaScript
 
 ###  Live Demo
-Add your live link here
+https://paletismailey.github.io/CODSOFT/TASK3/
 
 ---
 
@@ -99,4 +99,4 @@ Completed as part of the Web Development Internship at CodSoft.
 https://github.com/paletismailey
 
 ### LinkedIn
-[Add your LinkedIn profile link her](https://www.linkedin.com/in/paleti-smailey-0030263a7/)
+https://www.linkedin.com/in/paleti-smailey-0030263a7/
